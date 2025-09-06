@@ -20,7 +20,7 @@ main {
   margin-top: 4rem;
   justify-content: center;
   grid-template-rows: auto; 
-  margin: 10px;
+  margin: 20px;
 }
 body{
     background-color: var(--Grey-100); font-weight: 500;
@@ -199,3 +199,4 @@ footer{
 
 
 }
+
