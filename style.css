@@ -197,6 +197,19 @@ footer{
     margin: 20px;
     font-size: 1.2rem !important;
 
+    
+
 
 }
+
+@media (hover: hover) and (pointer: fine) {
+
+
+    
+  .container {
+    grid-template-columns: repeat(4, 1fr) !important;
+  }
+}
+
+
 
